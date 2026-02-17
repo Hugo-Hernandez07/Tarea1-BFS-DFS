@@ -30,6 +30,7 @@ Ruta encontrada (lista ordenada de estaciones)
 Longitud en aristas (saltos)
 
 Número de nodos visitados
+
 3. Notas importantes
 
 El grafo está modelado como no dirigido y no ponderado.
